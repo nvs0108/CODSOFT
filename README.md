@@ -41,8 +41,14 @@ A basic calculator web application capable of performing arithmetic operations.
 3. Open the `.html` file in any modern web browser.
 
 ## Screenshots
+## 🚀 1. Landing Page
+![Landing Page Screenshot](https://github.com/nvs0108/CODSOFT/blob/main/Landing%20Page/assets/landing%20page.jpg)
 
-_Add screenshots here if available for better visual understanding._
+## 🧑‍💼 2. Personal Portfolio
+![Personal Portfolio Screenshot](https://github.com/nvs0108/CODSOFT/blob/main/Portfolio/images/portfolio.jpg)
+
+## 🧮 3. Calculator
+![Personal Portfolio Screenshot](https://github.com/nvs0108/CODSOFT/blob/main/Calculator/Pics/dark%20mode.jpg)
 
 ## License
 
