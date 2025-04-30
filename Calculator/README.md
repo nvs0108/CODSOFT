@@ -17,9 +17,7 @@ This is a simple and responsive calculator web application built using **HTML**,
 
 ## 📸 Screenshots
 
-_Add a screenshot here (optional):_
-
-![Calculator Screenshot](screenshot.png)
+![Calculator Screenshot](href(https://github.com/nvs0108/CODSOFT/blob/main/Calculator/Pics/dark%20mode.jpg))
 
 ## 🧪 How to Use
 
