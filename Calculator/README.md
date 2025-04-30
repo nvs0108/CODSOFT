@@ -44,8 +44,11 @@ This is a simple and responsive calculator web application built using **HTML**,
 ```
 Calculator/
 ├── index.html   # HTML layout
-├── style.css    # Styling
-└── script.js    # Calculator logic
+├── styles
+      ├── dark.css    # Styling (Dark Mode)
+      ├── light.css   # Styling (Light Mode)
+└── script
+      ├── script.js    # Calculator logic
 ```
 
 ## 📘 Learning Outcomes
