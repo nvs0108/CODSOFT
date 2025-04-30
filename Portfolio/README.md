@@ -32,7 +32,7 @@ Portfolio/
 
 ## 📸 Screenshot
 
-![Portfolio Screenshot](https://raw.githubusercontent.com/nvs0108/CODSOFT/main/Portfolio/images/screenshot.jpg)
+![Portfolio Screenshot](https://github.com/nvs0108/CODSOFT/blob/main/Portfolio/images/portfolio.jpg)
 
 ## 🧪 How to Use
 
