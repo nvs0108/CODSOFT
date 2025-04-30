@@ -16,7 +16,7 @@ This is a simple and responsive landing page created using **HTML** and **CSS** 
 
 ## 📸 Screenshot
 
-![Landing Page Screenshot](https://raw.githubusercontent.com/nvs0108/CODSOFT/main/Landing%20Page/screenshot.jpg)
+![Landing Page Screenshot](https://github.com/nvs0108/CODSOFT/blob/main/Landing%20Page/assets/landing%20page.jpg)
 
 ## 🧪 How to Use
 
